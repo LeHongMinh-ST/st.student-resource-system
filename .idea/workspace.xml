@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c4a58e4-af05-4f90-9112-3e28168cecf5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.commitlintrc.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/npm_test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/commit-msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/st.student-resource-student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.storybook/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.storybook/preview.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/releases/yarn-4.4.0.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarnrc.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENCE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/styles/vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/RoleBadge/RoleBagde.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/RoleBadge/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/StatusBadge/StatusBadge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/StatusBadge/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/StatusFileImportBadge/StatusFileImportBadge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/StatusFileImportBadge/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/StatusStudentBadge/StatusStudentBadge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Badge/StatusStudentBadge/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CommonDataTable/CommonDataTable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CommonDataTable/EmptyTable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CommonDataTable/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Logo/Logo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Logo/logo.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Modals/DeleteModal/DeleteModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Modals/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navigation/Links/LinksGroup.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navigation/Links/links-group.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navigation/Navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navigation/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navigation/navigation.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PageHeader/PageHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PageHeader/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Surface/Surface.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Surface/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TextEditor/TextEditor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TextEditor/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/UserProfileButton/UserProfileButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/UserProfileButton/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/UserProfileButton/user-profile-button.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Welcome/Welcome.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Welcome/Welcome.story.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Welcome/Welcome.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Welcome/Welcome.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/commons.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/errorMessages.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/labels.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/sidebarNavigation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/classType.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/excelFileImportType.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/familyRelationship.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/gender.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/http-status.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/role.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/socialPolicyObject.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/status.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/statusFileImport.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/studentRole.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/studentStatus.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/trainingType.enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/Profile/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/login/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useAuthCheck.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useMatchPath.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useSearchFilter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.setup.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/AuthLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/MainLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/main-layout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/404.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-vnua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logoST.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/authService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-utils/render.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/axios/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/func/formError.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/func/formatDateString.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/recoil/auth/authState.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mbVyAAbbGrAWMXM3LdFoEZT402" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/var/www/st.student-resource-system/public/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "/var/www/st.student-resource-student/node_modules/stylelint",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "/var/www/st.student-resource-student/node_modules/prettier",
+    "ts.external.directory.path": "/home/minhlh/.local/share/JetBrains/Toolbox/apps/phpstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/features" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/types" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PS-242.20224.427" />
+        <option value="bundled-php-predefined-a98d8de5180a-d6acee4cb394-com.jetbrains.php.sharedIndexes-PS-242.20224.427" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c4a58e4-af05-4f90-9112-3e28168cecf5" name="Changes" comment="" />
+      <created>1727345514429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727345514429</updated>
+      <workItem from="1727345515494" duration="2231000" />
+      <workItem from="1727421656828" duration="5146000" />
+      <workItem from="1727429749236" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
