@@ -95,18 +95,13 @@ const LoginPage = () => {
                   <Image src="/images/login.svg" alt="logo" className="loginWrap__image" />
                   <div className="loginWrap__footer">
                     <div className="loginWrap__footer__line"></div>
-                    <div className="loginWrap__footer__text">
-                      Lưu ý: Hệ thống quản lý sinh viên trực tuyến dành cho ban chủ nhiệm khoa, cán
-                      bộ, giảng viên và sinh viên của từng khoa, do vậy nếu bạn chưa có tài khoản
-                      xin vui lòng liên hệ với quản lý của khoa mình hoặc quản trị hệ thống để thiết
-                      lập tài khoản.
-                    </div>
+                    <div className="loginWrap__footer__text"></div>
                   </div>
                 </div>
                 <div className="loginWrap__right">
                   <div className="loginWrap__form">
                     <div className="loginWrap__form__header">
-                      <h3>Đăng nhập hệ thống sinh viên</h3>
+                      <h3>Đăng nhập quản trị hệ thống</h3>
                     </div>
                     <div className="loginWrap__form__main">
                       <form className="loginForm" onSubmit={submitLogin}>
