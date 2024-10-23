@@ -1,15 +1,27 @@
-name: npm test
+name: npm test lint
 
 on:
   pull_request:
     branches:
-      - '**'
+      - main
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.number || github.sha }}
   cancel-in-progress: true
 
 jobs:
+  lint-commit-msg:
+    runs-on: [ ubuntu-latest ]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install deps
+        run: npm install
+      - name: Lint commit message
+        run: npx commitlint --last --verbose
   test_pull_request:
     runs-on: ubuntu-latest
     steps:
@@ -17,10 +29,12 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
-          cache: 'yarn'
-          cache-dependency-path: '**/yarn.lock'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
       - name: Install dependencies
-        run: yarn
+        run: npm ci
+      - name: Run ESLint
+        run: npm run lint
       - name: Run build
         run: npm run build
       - name: Run tests
